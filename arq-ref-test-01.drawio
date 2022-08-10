@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-10T13:30:34.039Z" agent="5.0 (Windows)" etag="fsfmEOwVWw2zv6oxfD95" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-10T13:31:45.496Z" agent="5.0 (Windows)" etag="ApyTgfLZtRuCr5v2NrV5" version="20.2.3" type="github">
   <diagram id="fxpMy1MvDavEP5wEhpTM" name="Página-1">
     <mxGraphModel dx="1022" dy="384" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -26,12 +26,27 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EwkXzUQBeiqE4QdTnfD2-2" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="50" y="260" width="80" height="120" as="geometry" />
+          <mxGeometry x="220" y="320" width="80" height="120" as="geometry" />
         </mxCell>
         <mxCell id="EwkXzUQBeiqE4QdTnfD2-3" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#3333FF;" vertex="1" parent="EwkXzUQBeiqE4QdTnfD2-2">
           <mxGeometry width="70" height="120" as="geometry" />
         </mxCell>
         <mxCell id="EwkXzUQBeiqE4QdTnfD2-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="EwkXzUQBeiqE4QdTnfD2-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="93.33333333333333" as="sourcePoint" />
+            <mxPoint x="90" y="26.666666666666668" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="80" y="40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EwkXzUQBeiqE4QdTnfD2-8" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="60" y="270" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="EwkXzUQBeiqE4QdTnfD2-9" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#3333FF;" vertex="1" parent="EwkXzUQBeiqE4QdTnfD2-8">
+          <mxGeometry width="70" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="EwkXzUQBeiqE4QdTnfD2-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="EwkXzUQBeiqE4QdTnfD2-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="40" y="93.33333333333333" as="sourcePoint" />
             <mxPoint x="90" y="26.666666666666668" as="targetPoint" />
