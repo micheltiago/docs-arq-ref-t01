@@ -131,7 +131,7 @@
           <mxGeometry x="26.737589695557247" y="11.2485472927654" width="28.167491161459953" height="28.167491161459953" as="geometry" />
         </mxCell>
         <mxCell id="1VLZZIeB2V3fGvdLZls9-61" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-900" y="-380.0000000000001" width="364" height="410" as="geometry" />
+          <mxGeometry x="-900" y="-263.1400000000001" width="364" height="410" as="geometry" />
         </mxCell>
         <mxCell id="1VLZZIeB2V3fGvdLZls9-62" value="" style="group" vertex="1" connectable="0" parent="1VLZZIeB2V3fGvdLZls9-61">
           <mxGeometry width="364" height="257.2549019607843" as="geometry" />
@@ -210,7 +210,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1VLZZIeB2V3fGvdLZls9-65" value="&lt;div align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 72px;&quot;&gt;Sinesp Assinador&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-810.0008302897493" y="-157.00274509803933" width="259.06988069150225" height="176.86274509803923" as="geometry" />
+          <mxGeometry x="-820.0008302897493" y="-30.002745098039327" width="259.06988069150225" height="176.86274509803923" as="geometry" />
+        </mxCell>
+        <mxCell id="1VLZZIeB2V3fGvdLZls9-133" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;fillColor=light-dark(transparent,#000000);" edge="1" parent="1" source="1VLZZIeB2V3fGvdLZls9-64" target="nURGNe4C3Y1Tia-C-a3B-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
