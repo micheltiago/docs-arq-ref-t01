@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="1VLZZIeB2V3fGvdLZls9-117" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Azure_Synapse_Analytics.svg;" vertex="1" parent="1">
+          <mxGeometry x="3240" y="-1070" width="690" height="793.5" as="geometry" />
+        </mxCell>
         <mxCell id="1VLZZIeB2V3fGvdLZls9-98" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Management_Portal.svg;fillColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="-2220" y="-1060" width="1887.5" height="1510" as="geometry" />
         </mxCell>
@@ -92,22 +95,25 @@
           <mxGeometry x="566.86" y="510" width="418.28" height="244" as="geometry" />
         </mxCell>
         <mxCell id="1VLZZIeB2V3fGvdLZls9-31" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="2330" y="-1560" width="1030" height="927" as="geometry" />
+          <mxGeometry x="3310" y="-1510" width="930" height="864" as="geometry" />
         </mxCell>
         <mxCell id="1VLZZIeB2V3fGvdLZls9-14" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Power_Up.svg;" vertex="1" parent="1VLZZIeB2V3fGvdLZls9-31">
-          <mxGeometry width="797" height="797" as="geometry" />
+          <mxGeometry width="588.2619047619048" height="588.2619047619048" as="geometry" />
         </mxCell>
         <mxCell id="1VLZZIeB2V3fGvdLZls9-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.644;entryY=1.13;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1VLZZIeB2V3fGvdLZls9-31" target="1VLZZIeB2V3fGvdLZls9-10">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="630" y="-180" as="targetPoint" />
-            <mxPoint x="564" y="683.3523804664956" as="sourcePoint" />
+            <mxPoint x="465" y="-167.76699029126215" as="targetPoint" />
+            <mxPoint x="416.28571428571433" y="636.9109565512969" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1VLZZIeB2V3fGvdLZls9-10" value="&lt;font style=&quot;font-size: 100px;&quot;&gt;&lt;span class=&quot;abstract-keys_38r2Q&quot; data-ushow=&quot;{&amp;quot;tags&amp;quot;:[],&amp;quot;lid&amp;quot;:&amp;quot;c875a283004e3d01&amp;quot;,&amp;quot;tplname&amp;quot;:&amp;quot;sg_kg_entity_san&amp;quot;,&amp;quot;query&amp;quot;:&amp;quot;wu yanni&amp;quot;,&amp;quot;valueInfo&amp;quot;:[{&amp;quot;sort&amp;quot;:&amp;quot;show&amp;quot;,&amp;quot;ts&amp;quot;:1736945037665,&amp;quot;value&amp;quot;:&amp;quot;card&amp;quot;,&amp;quot;o&amp;quot;:&amp;quot;1&amp;quot;,&amp;quot;total_o&amp;quot;:1,&amp;quot;sub_valueinfo&amp;quot;:{&amp;quot;area&amp;quot;:&amp;quot;gain_module&amp;quot;,&amp;quot;name&amp;quot;:&amp;quot;吴艳妮&amp;quot;,&amp;quot;ext&amp;quot;:{&amp;quot;showStates&amp;quot;:&amp;quot;0&amp;quot;,&amp;quot;itemName&amp;quot;:&amp;quot;[\&amp;quot;关系\&amp;quot;,\&amp;quot;所属运动队\&amp;quot;]&amp;quot;,&amp;quot;relation&amp;quot;:&amp;quot;[]&amp;quot;,&amp;quot;vertical&amp;quot;:&amp;quot;&amp;quot;}}}]}&quot; data-ucfg=&quot;{&amp;quot;ubcId&amp;quot;:&amp;quot;6640&amp;quot;,&amp;quot;type&amp;quot;:&amp;quot;show&amp;quot;,&amp;quot;from&amp;quot;:&amp;quot;search&amp;quot;,&amp;quot;config&amp;quot;:{&amp;quot;page&amp;quot;:&amp;quot;a&amp;quot;,&amp;quot;from&amp;quot;:&amp;quot;search&amp;quot;}}&quot;&gt;中国&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1VLZZIeB2V3fGvdLZls9-31">
-          <mxGeometry x="173.5" y="797" width="220" height="130" as="geometry" />
+          <mxGeometry x="128.05952380952382" y="742.8349514563107" width="220" height="130" as="geometry" />
         </mxCell>
         <mxCell id="1VLZZIeB2V3fGvdLZls9-13" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Quickstart_Center.svg;" vertex="1" parent="1VLZZIeB2V3fGvdLZls9-31">
-          <mxGeometry x="420" y="220" width="610" height="610" as="geometry" />
+          <mxGeometry x="310" y="205.04854368932038" width="450.23809523809524" height="450.23809523809524" as="geometry" />
+        </mxCell>
+        <mxCell id="1VLZZIeB2V3fGvdLZls9-113" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/preview/Static_Apps.svg;" vertex="1" parent="1VLZZIeB2V3fGvdLZls9-31">
+          <mxGeometry x="708.5714285714287" y="464.621359223301" width="221.42857142857144" height="175.84380952380954" as="geometry" />
         </mxCell>
         <mxCell id="1VLZZIeB2V3fGvdLZls9-70" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1147.0046808510638" y="-628" width="520" height="474.63487804878054" as="geometry" />
@@ -189,6 +195,9 @@
         </mxCell>
         <mxCell id="1VLZZIeB2V3fGvdLZls9-107" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/azure_ecosystem/Collaborative_Service.svg;" vertex="1" parent="1">
           <mxGeometry x="1560" y="-980" width="91.62" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="1VLZZIeB2V3fGvdLZls9-115" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Defender_Robot_Controller.svg;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="3200" y="-520" width="291.88" height="300" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
