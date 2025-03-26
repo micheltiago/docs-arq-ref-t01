@@ -46,7 +46,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IVBSxfab5nylGK4fCPFY-2" value="" style="swimlane;startSize=0;shadow=1;fillColor=#fff2cc;strokeColor=#d6b656;swimlaneFillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="414" y="90" width="270" height="360" as="geometry" />
+          <mxGeometry x="414" y="90" width="270" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="IVBSxfab5nylGK4fCPFY-61" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="IVBSxfab5nylGK4fCPFY-2">
+          <mxGeometry x="16" y="111" width="244" height="244" as="geometry" />
         </mxCell>
         <mxCell id="IVBSxfab5nylGK4fCPFY-8" value="API FRONTEND" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/devops/API_Connections.svg;" vertex="1" parent="IVBSxfab5nylGK4fCPFY-2">
           <mxGeometry x="16" y="110" width="68" height="45.32" as="geometry" />
@@ -76,9 +79,6 @@
         <mxCell id="IVBSxfab5nylGK4fCPFY-45" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.communications.offline_address_book;" vertex="1" parent="IVBSxfab5nylGK4fCPFY-2">
           <mxGeometry x="46" y="240" width="55" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IVBSxfab5nylGK4fCPFY-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="IVBSxfab5nylGK4fCPFY-2" source="IVBSxfab5nylGK4fCPFY-44" target="IVBSxfab5nylGK4fCPFY-42">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="IVBSxfab5nylGK4fCPFY-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.45;entryY=0.436;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="IVBSxfab5nylGK4fCPFY-2" source="IVBSxfab5nylGK4fCPFY-45">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="73.5" y="329" as="targetPoint" />
@@ -95,6 +95,12 @@
               <mxPoint x="84" y="151" />
               <mxPoint x="165" y="151" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IVBSxfab5nylGK4fCPFY-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="IVBSxfab5nylGK4fCPFY-2" source="IVBSxfab5nylGK4fCPFY-44" target="IVBSxfab5nylGK4fCPFY-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="587" y="293" as="sourcePoint" />
+            <mxPoint x="601" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IVBSxfab5nylGK4fCPFY-30" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -137,6 +143,12 @@
         </mxCell>
         <mxCell id="IVBSxfab5nylGK4fCPFY-55" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/spirit20/file-zip.png" vertex="1" parent="IVBSxfab5nylGK4fCPFY-52">
           <mxGeometry x="30" y="-37" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IVBSxfab5nylGK4fCPFY-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.754;entryY=0.922;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IVBSxfab5nylGK4fCPFY-31" target="IVBSxfab5nylGK4fCPFY-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IVBSxfab5nylGK4fCPFY-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IVBSxfab5nylGK4fCPFY-29" target="IVBSxfab5nylGK4fCPFY-34">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
